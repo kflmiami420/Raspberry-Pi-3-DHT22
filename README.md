@@ -38,7 +38,7 @@ type on the root
 
 nano dht22.py and copy and paste the lines below in the file
 
-
+------------------------------------------------------
 #!/usr/bin/python
 import sys
 import Adafruit_DHT
