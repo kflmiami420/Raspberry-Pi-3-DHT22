@@ -10,7 +10,7 @@ def avg_min_max(data):
 
 # Configuration
 sensor = Adafruit_DHT.DHT22
-gpio = 22
+gpio = 10
 count = 5
 
 date = time.gmtime()
