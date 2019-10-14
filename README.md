@@ -1,4 +1,13 @@
 # Raspberry-Pi-3-DHT22-Temp-Sensor
+
+
+Updated of October 2019 
+
+* added simpletest.py
+* and others
+* removed non working scripts
+
+
 2018 Raspberry Pi 3 DHT22 Temp Sensor  Scripts 
 
 
